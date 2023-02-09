@@ -1,0 +1,130 @@
+Summary of the model :
+Train size : 223470
+Validation size : 74490
+Test size : 74491
+Batch size : 0.1
+Number of epochs : 20
+Learning Rate : 0.001
+Momentum : 0.9
+====================
+Epoch n°0
+----------
+Training Loss: 3.2581 Acc: 0.0421
+----------
+Validation Loss: 3.2580 Acc: 0.0447
+====================
+Epoch n°1
+----------
+Training Loss: 3.2578 Acc: 0.0483
+----------
+Validation Loss: 3.2577 Acc: 0.0540
+====================
+Epoch n°2
+----------
+Training Loss: 3.2575 Acc: 0.0599
+----------
+Validation Loss: 3.2573 Acc: 0.0690
+====================
+Epoch n°3
+----------
+Training Loss: 3.2571 Acc: 0.0777
+----------
+Validation Loss: 3.2568 Acc: 0.0882
+====================
+Epoch n°4
+----------
+Training Loss: 3.2566 Acc: 0.0980
+----------
+Validation Loss: 3.2563 Acc: 0.1092
+====================
+Epoch n°5
+----------
+Training Loss: 3.2560 Acc: 0.1188
+----------
+Validation Loss: 3.2557 Acc: 0.1292
+====================
+Epoch n°6
+----------
+Training Loss: 3.2554 Acc: 0.1360
+----------
+Validation Loss: 3.2550 Acc: 0.1415
+====================
+Epoch n°7
+----------
+Training Loss: 3.2546 Acc: 0.1455
+----------
+Validation Loss: 3.2541 Acc: 0.1495
+====================
+Epoch n°8
+----------
+Training Loss: 3.2535 Acc: 0.1509
+----------
+Validation Loss: 3.2528 Acc: 0.1529
+====================
+Epoch n°9
+----------
+Training Loss: 3.2520 Acc: 0.1530
+----------
+Validation Loss: 3.2508 Acc: 0.1534
+====================
+Epoch n°10
+----------
+Training Loss: 3.2495 Acc: 0.1536
+----------
+Validation Loss: 3.2474 Acc: 0.1537
+====================
+Epoch n°11
+----------
+Training Loss: 3.2445 Acc: 0.1538
+----------
+Validation Loss: 3.2395 Acc: 0.1538
+====================
+Epoch n°12
+----------
+Training Loss: 3.2297 Acc: 0.1537
+----------
+Validation Loss: 3.2091 Acc: 0.1537
+====================
+Epoch n°13
+----------
+Training Loss: 3.1799 Acc: 0.1537
+----------
+Validation Loss: 3.1604 Acc: 0.1537
+====================
+Epoch n°14
+----------
+Training Loss: 3.1624 Acc: 0.1537
+----------
+Validation Loss: 3.1641 Acc: 0.1537
+====================
+Epoch n°15
+----------
+Training Loss: 3.1643 Acc: 0.1537
+----------
+Validation Loss: 3.1640 Acc: 0.1537
+====================
+Epoch n°16
+----------
+Training Loss: 3.1632 Acc: 0.1537
+----------
+Validation Loss: 3.1620 Acc: 0.1537
+====================
+Epoch n°17
+----------
+Training Loss: 3.1608 Acc: 0.1537
+----------
+Validation Loss: 3.1594 Acc: 0.1537
+====================
+Epoch n°18
+----------
+Training Loss: 3.1587 Acc: 0.1537
+----------
+Validation Loss: 3.1583 Acc: 0.1537
+====================
+Epoch n°19
+----------
+Training Loss: 3.1580 Acc: 0.1537
+----------
+Validation Loss: 3.1576 Acc: 0.1537
+------------------------------
+Testing Loss: 3.1530 Acc: 0.1591
