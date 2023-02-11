@@ -37,7 +37,7 @@ if __name__ == "__main__":
     mode = ""
     while mode != "train" and mode != "test":
         mode = input("Mode train or test : ")
-    name_model = "model_4"
+    name_model = input("Enter the name of the model you want to train or to test")
     if mode == "train":
         summary = "Summary of the model :\n"
         train_ratio = 0.6
