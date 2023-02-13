@@ -30,4 +30,4 @@ To do so, the code permits to create a neuronal network, train, evaluate and tes
 ## 3) Credits 
 The members of this project are Malo Hangran and Simon Molz. 
 We gratefully thank Professor Kristian Hildebrand for the lessons throughout the semester and the Master class for its attention during our presentation. 
-Th list of the website we visited to complete this project are available at the end of the presentation.
+The list of the websites we visited to complete this project are available at the end of the presentation.
